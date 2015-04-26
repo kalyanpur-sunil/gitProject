@@ -25,4 +25,8 @@ NOTE: always changes done to files needs to be added to git staging area before 
 to find diff between files
 	command: git diff FILENAME (This does diff between local changes vs staged changes)
 if the git log is large and to exit out hit shift zz TWICE
+to view short log
+	command: git log --oneline
+to added modifed file to stage and commit
+	command: git commit -a -m "COMMIT MESSAGE"
 
