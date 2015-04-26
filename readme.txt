@@ -21,3 +21,4 @@ to check status of repository
 to check commit log
 	command: git log
 
+NOTE: always changes done to files needs to be added to git staging area before it can be commited.
