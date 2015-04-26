@@ -22,3 +22,7 @@ to check commit log
 	command: git log
 
 NOTE: always changes done to files needs to be added to git staging area before it can be commited.
+to find diff between files
+	command: git diff FILENAME (This does diff between local changes vs staged changes)
+if the git log is large and to exit out hit shift zz TWICE
+
