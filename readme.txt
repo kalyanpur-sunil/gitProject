@@ -29,4 +29,8 @@ to view short log
 	command: git log --oneline
 to added modifed file to stage and commit
 	command: git commit -a -m "COMMIT MESSAGE"
+to create SSH
+	command: ssh-keygen-t rsa -C "email address"
 
+to add origin
+	command: git remote add origin "URL TO REMOTE GIT REPOSITORY"
